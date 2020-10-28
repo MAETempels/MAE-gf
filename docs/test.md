@@ -32,7 +32,7 @@ pdf-image-test
 <embed type="image/pdf" src="../documents/streched-paris.pdf" width="100px" height="200px">                
 
 <embed type="text/pdf" src="../documents/streched-paris.pdf" width="100px" height="100px">      
-nog even dit proberen 777
+nog even dit proberen 888
 
 [pdf-test]: ../documents/streched-paris.pdf
 
