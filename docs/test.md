@@ -40,7 +40,7 @@ nog even dit proberen 888
 
 [pdf-test]: ../documents/streched-paris.pdf
 
-[svg-test]../photos/test.svg
+[svg-test]: ../photos/test.svg
 
 
 buttons test
