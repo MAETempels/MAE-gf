@@ -26,6 +26,8 @@ purpose: test only
 
 # test
 
+is dit de oude ??  
+
 pdf-image-test      
 ![tttt][pdf-test]        
 <a href="../documents/streched-paris.pdf"><img src="../documents/streched-paris.pdf">a link</a>    
