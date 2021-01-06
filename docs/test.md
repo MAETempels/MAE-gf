@@ -37,11 +37,14 @@ pdf-image-test
 nog even dit proberen 888
 
 ![test svg][svg-test]
+![test svg  inkscape formaat][svg-test2]
+![test svg][svg-test3]
 
 [pdf-test]: ../documents/streched-paris.pdf
 
 [svg-test]: ../photos/test.svg
-
+[svg-test2]: ../photos/test2.svg
+[svg-test3]: ../photos/test3.svg
 
 buttons test
 
