@@ -36,7 +36,11 @@ pdf-image-test
 <embed type="text/pdf" src="../documents/streched-paris.pdf" width="100px" height="100px">      
 nog even dit proberen 888
 
+![test svg][svg-test]
+
 [pdf-test]: ../documents/streched-paris.pdf
+
+[svg-test]../photos/test.svg
 
 
 buttons test
