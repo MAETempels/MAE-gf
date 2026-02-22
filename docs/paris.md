@@ -5,6 +5,11 @@ title: Paris grounds
 
 # Paris grounds
 
+[![0434-k][ph-0434]][t-0434-k]
+
+[ph-0434]: ../images/paris/f-0434.png?align=center "0434-K"
+[t-0434-k]: /GroundForge/stitches.html?patchWidth=12&patchHeight=16&tile=B-C-,---5&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&c1=cl&a1=cr&d2=ctcttctc
+
 ## Contents
 
 * [Introduction](#introduction)
@@ -14,13 +19,6 @@ title: Paris grounds
 * [Big Paris ground](#big-paris-ground)
 * [Extensions](#extensions)
 * [Another arrangement](#another-arrangement)
-
-## Introduction
-
-[![0434-k][ph-0434]][t-0434-k] 
-
-[ph-0434]: ../images/paris/f-0434.png?align=centre "0434-K"
-[t-0434-k]: /GroundForge/stitches.html?patchWidth=12&patchHeight=16&tile=B-C-,---5&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&c1=cl&a1=cr&d2=ctcttctc
 
 ## Traditional Paris ground
 
@@ -162,7 +160,7 @@ This ground is also known as _Copenhagen hole_.
 [p-G-35v]: ../images/paris/G35v.svg?align=right "bias ground"
 [p-G-39v]: ../images/paris/G39v.svg?align=right "paris ground with snowflakes"
 
-[p-4401]: ../images/paris/4401.svg
+[p-4401]: ../images/paris/4401.svg "4401"
 [p-35v1]: ../images/paris/35v1.svg
 [p-39v1]: ../images/paris/39v1.svg
 
