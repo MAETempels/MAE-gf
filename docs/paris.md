@@ -14,7 +14,6 @@ title: Paris grounds
 * [Big Paris ground](#big-paris-ground)
 * [Extensions](#extensions)
 * [Another arrangement](#another-arrangement)
-* [Way of making](#way-of-making)
 
 ## Introduction
 
@@ -174,21 +173,3 @@ This ground is also known as _Copenhagen hole_.
  
 [t-39v1]: /GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=7-4-,-5-5,5x-x&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=3&c1=ctct&a1=ctct&d2=ctc&b2=ctc&a3=ctctc
  
-
-## Way of making
-
-The following example shows three different matrix-scheme's to obtain the same ground.      
-
-[![as paris ground][P-0404-P]][T-0404-P] 
-[![as rose ground][P-0404-R]][T-0404-R]
-[![as torchon ground][P-0404-T]][T-0404-T]
-
-[P-0404-P]: ../images/paris/0404-kp.png "0404-K as paris ground"
-[P-0404-R]: ../images/paris/0404-kr.png "0404-K as rose ground"
-[P-0404-T]: ../images/paris/0404-kt.png "0404-K as torchon ground"
-
-[T-0404-R]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&b1=c&c1=ctct&d1=c&b2=l&d2=r&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0404-P]: /GroundForge/stitches?patchWidth=12&patchHeight=16&a1=cr&c1=cl&d2=ctctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0404-T]: /GroundForge/stitches?patchWidth=12&patchHeight=16&b1=ctc&d1=ctct&a2=cr&c2=cl&tile=-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-        
-
