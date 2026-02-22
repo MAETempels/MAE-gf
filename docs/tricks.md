@@ -10,6 +10,7 @@ title: Notes
 * [Ground names](#ground-names)
 * [Color code](#color-code)
 * [Stitches used](#stitches-used)
+* [Way of making](#way-of-making)
 
 ## Ground names
 
@@ -51,6 +52,20 @@ The specified twists in some stitch definitions may not be according to the expe
 
 [p-colors]: ../images/w-color.png?align=right "colors used"
 
-    
+## Way of making
+
+The following example shows three different matrix-scheme's to obtain the same ground.
+
+[![as paris ground][p-0404-P]][t-0404-P]
+[![as rose ground][p-0404-R]][t-0404-R]
+[![as torchon ground][p-0404-T]][t-0404-T]
+
+[p-0404-P]: ../images/tricks/0404-kp.png "0404-K as paris ground"
+[p-0404-R]: ../images/tricks/0404-kr.png "0404-K as rose ground"
+[p-0404-T]: ../images/tricks/0404-kt.png "0404-K as torchon ground"
+
+[t-0404-R]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&b1=c&c1=ctct&d1=c&b2=l&d2=r&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0404-P]: /GroundForge/stitches?patchWidth=12&patchHeight=16&a1=cr&c1=cl&d2=ctctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0404-T]: /GroundForge/stitches?patchWidth=12&patchHeight=16&b1=ctc&d1=ctct&a2=cr&c2=cl&tile=-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2   
 
 

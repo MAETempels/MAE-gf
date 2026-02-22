@@ -9,9 +9,6 @@ title: Bias grounds
 
 * [Introduction](#introduction)
 * [Traditional Bias Ground](#traditional-bias-ground)
-  * [examples with one middle stitch](#examples-with-one-middle-stitch)
-  * [examples with two different middle stitches](#examples-with-two-different-middle-stitches)
-  * [examples with two different units](#examples-with-two-different-units)
 * [Bias Ground crossed rose style](#bias-ground-crossed-rose-style)
 * [Bias Ground crossed alternating](#bias-ground-crossed-alternating)
 * [Bias Ground with a diagonal in between](#bias-ground-with-a-diagonal-in-between)
@@ -19,15 +16,10 @@ title: Bias grounds
 * [Unit bias in a diamond](#unit-bias-in-a-diamond)
 * [Bias Ground crossed and in a diamond](#bias-ground-crossed-and-in-a-diamond)      
 * [Short bias](#short-bias)      
-  * [solo](#solo)
-  * [crossed](#crossed)
 * [Alternate bias](#alternated-bias)
 * [Double bias](#double-bias)
 * [Bias with vertical](#bias-with-vertical)
 * [Stretched](#stretched)
-  * [stretched bias](#stretched-bias)
-  * [small snowflake](#equivalent-to-the-small-snowflake)
-  * [zig-zag](#zig-zags)
 
 ## Introduction
 
