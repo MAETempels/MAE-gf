@@ -20,7 +20,7 @@ title: Paris grounds
 [![0434-k][ph-0434]][t-0434-k] 
 
 [ph-0434]: ../images/paris/f-0434.png?align=centre "0434-K"
-[t-0434-k]: /GroundForge/stitches?patchWidth=12&patchHeight=16&b1=ctc&d1=ctct&a2=cr&c2=cl&tile=-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0434-k]: /GroundForge/stitches.html?patchWidth=12&patchHeight=16&tile=B-C-,---5&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&c1=cl&a1=cr&d2=ctcttctc
 
 ## Traditional Paris ground
 
