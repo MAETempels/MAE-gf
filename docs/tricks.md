@@ -10,6 +10,7 @@ title: Notes
 * [Ground names](#ground-names)
 * [Color code](#color-code)
 * [Stitches used](#stitches-used)
+* [Way of making](#way-of-making)
 
 ## Ground names
 
