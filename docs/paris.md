@@ -17,37 +17,36 @@ title: Paris grounds
 
 ## Introduction
 
-![photo mt-0434][ph-0434] 
-The photo shows the example on the bottom of this page, but slighty adapted to get the colours right. The "middle" stitch is a pin chain (_Stretched Paris ground_).    
-<p style="clear: both"></p>
+[![0434-k][ph-0434]][t-0434-k] 
 
-[ph-0434]: ../images/paris/f-0434.png?align=right "0404-K adaption"
+[ph-0434]: ../images/paris/f-0434.png?align=centre "0434-K"
+[t-0434-k]: /GroundForge/stitches?patchWidth=12&patchHeight=16&b1=ctc&d1=ctct&a2=cr&c2=cl&tile=-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Traditional Paris ground
 
 ![paris ground][pic-par-grnd]
-[![tradional][P-0400-DG]][T-0400-DG] 
-[![0403-kg][P-0403-KG]][T-0403-KG] 
-[![0408-kg][P-0408-KG]][T-0408-KG] 
-[![0441-xg][P-0441-XG]][T-0441-XG] 
-[![0424-kf][P-0424-KF]][T-0424-KF] 
-[![0404-kg][P-0404-KG]][T-0404-KG] 
+[![tradional][p-0400-DG]][t-0400-DG] 
+[![0403-k][p-0403-KG]][t-0403-KG] 
+[![0408-k][p-0408-KG]][t-0408-KG] 
+[![0441-x][p-0441-XG]][t-0441-XG] 
+[![0424-kf][p-0424-KF]][t-0424-KF] 
+[![0404-k][p-0404-KG]][t-0404-KG] 
 <p style="clear: both"></p>
 
 [pic-par-grnd]: ../images/paris/G04.svg?align=right "paris ground" 
-[P-0400-DG]: ../images/paris/0400-dg.png "traditonal, 0400-D"
-[P-0403-KG]: ../images/paris/0403-kg.png "0403-K"
-[P-0408-KG]: ../images/paris/0408-kg.png "0408-K"
-[P-0424-KF]: ../images/paris/0424-kf.png "0424-P"
-[P-0441-XG]: ../images/paris/0441-xg.png "0441-X"
-[P-0404-KG]: ../images/paris/0404-kg.png "0404-K"
+[p-0400-DG]: ../images/paris/0400-dg.png "traditonal, 0400-D"
+[p-0403-KG]: ../images/paris/0403-kg.png "0403-K"
+[p-0408-KG]: ../images/paris/0408-kg.png "0408-K"
+[p-0424-KF]: ../images/paris/0424-kf.png "0424-P"
+[p-0441-XG]: ../images/paris/0441-xg.png "0441-X"
+[p-0404-KG]: ../images/paris/0404-kg.png "0404-K"
 
-[T-0400-DG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=ctct&a1=ctct&d2=ctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0403-KG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&a1=c&c1=c&d2=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0424-KF]: /GroundForge/stitches?patchWidth=15&patchHeight=20&a1=ctctctcr&c1=ctctctcl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0408-KG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=c&a1=c&d2=ctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0441-XG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=crclcrc&a1=clcrclc&d2=tct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0404-KG]: /GroundForge/stitches?patchWidth=12&patchHeight=16&a1=cr&c1=cl&d2=ctctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0400-DG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=ctct&a1=ctct&d2=ctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0403-KG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&a1=c&c1=c&d2=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0424-KF]: /GroundForge/stitches?patchWidth=15&patchHeight=20&a1=ctctctcr&c1=ctctctcl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0408-KG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=c&a1=c&d2=ctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0441-XG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=crclcrc&a1=clcrclc&d2=tct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0404-KG]: /GroundForge/stitches?patchWidth=12&patchHeight=16&a1=cr&c1=cl&d2=ctctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Stretched Paris ground
 
@@ -62,7 +61,7 @@ This ground is also known as _Dropped stitch ground_.
 <p style="clear: both"></p>
 
 [p-paris-in-sqr]: ../images/paris/g-paris-in-sqr.svg?align=right "dropped stitch ground"
-[p-paris-in-sqr-01]: ../images/paris/g-paris-in-sqr.svg
+[p-paris-in-sqr-01]: ../images/paris/paris-in-sqr-01.svg
 [t-paris-in-sqr-01]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctct&c1=ctct&e1=ctc&g1=ctc&b2=ctct&d2=ctc&f2=tctc&h2=ctc&a3=ctc&c3=ctc&e3=tctcr&g3=tctcl&b4=ctc&d4=tctct&h4=tctct&tile=C-B-5-5-,-5-5-5-5,5-5-5-5-,-5-5---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Big Paris ground
@@ -87,9 +86,9 @@ This ground is also known as _Copenhagen hole_.
 [p-G-54]: ../images/paris/G54.svg?align=right "alternative placing big paris ground 1"
 [p-G-64]: ../images/paris/G64.svg?align=right "alternative placing big paris ground 2"
 
-[p-3412]: ../images/paris/g-big-paris.svg "3412"
-[p-5401]: ../images/paris/G54.svg "5401"
-[p-6401]: ../images/paris/G64.svg "6401"
+[p-3412]: ../images/paris/3412.svg "3412"
+[p-5401]: ../images/paris/5401.svg "5401"
+[p-6401]: ../images/paris/6401.svg "6401"
 
 [t-3412]: /GroundForge/stitches?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [t-5401]: /GroundForge/stitches?patchWidth=15&patchHeight=18&b1=ctc&e2=ctct&c2=ctct&a2=ctct&d3=ctct&b3=ctct&e4=ctcr&c4=ctcl&a4=ctct&tile=-5---,b-c-b,-5-5-,b-5-c&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=4
@@ -127,11 +126,11 @@ This ground is also known as _Copenhagen hole_.
 [p-ex-v1]: ../images/paris/g-ebp-v1.svg?align=right "extended big paris ground 1"
 [p-ex-v2]: ../images/paris/g-ebp-v2.svg?align=right "extended big paris ground 2"
 
-[p-ex-big-01]: ../images/paris/g-extended-big-paris.svg
-[p-ex-drop-01]: ../images/paris/g-extended-drop-stitch.svg
-[p-ex-3p-01]: ../images/paris/g-ebp-3-pair.svg
-[p-ex-v1-01]: ../images/paris/g-ebp-v1.svg
-[p-ex-v2-01]: ../images/paris/g-ebp-v2.svg
+[p-ex-big-01]: ../images/paris/ex-big-01.svg
+[p-ex-drop-01]: ../images/paris/ex-drop-01.svg
+[p-ex-3p-01]: ../images/paris/ex-3pr-01.svg
+[p-ex-v1-01]: ../images/paris/ex-v1-01.svg
+[p-ex-v2-01]: ../images/paris/ex-v2-01.svg
 
 [t-ex-drop-01]: /GroundForge/stitches?patchWidth=15&patchHeight=20&d1=ctct&e2=ctctlllllll&c2=ctctrrrrrrr&f3=ctctlllll&b3=ctctrrrrr&g4=ctctlll&a4=ctctrrr&tile=xxx5xxx,xx4-7xx,x4x-x7x,4xx-xx7&tileStitch=ctct&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-ex-big-01]: /GroundForge/stitches?patchWidth=15&patchHeight=20&g1=ctct&e1=ctct&c1=ctct&h2=ctct&f2=ctct&d2=ctct&b2=ctct&g3=ctct&c3=ctct&h4=ctct&f4=ctct&d4=ctct&b4=ctct&tile=--5-5-5-,-b-5-5-c,--5---5-,-b-c-b-c,&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -163,9 +162,9 @@ This ground is also known as _Copenhagen hole_.
 [p-G-35v]: ../images/paris/G35v.svg?align=right "bias ground"
 [p-G-39v]: ../images/paris/G39v.svg?align=right "paris ground with snowflakes"
 
-[p-4401]: ../images/paris/G44.svg
-[p-35v1]: ../images/paris/G35v.svg
-[p-39v1]: ../images/paris/G39v.svg
+[p-4401]: ../images/paris/4401.svg
+[p-35v1]: ../images/paris/35v1.svg
+[p-39v1]: ../images/paris/39v1.svg
 
 [t-4401]: /GroundForge/stitches?patchWidth=16&patchHeight=16&e1=tctc&c1=ctcl&a1=ctcr&f2=ctc&d2=ctc&e3=ctct&c3=ctc&a3=ctc&tile=5-5-5-,---5-5,C-B-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
