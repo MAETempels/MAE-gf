@@ -46,11 +46,11 @@ The pricking on the left is generated with one of the "ground from template" <a 
 On the right a distorted version that matches a Torchon grid. The units of the rose-ground are placed in different directions. The green arrows indicate the working order inherited from the original pair diagram.  
 The buttons below replace the unit with the unit shown on the button.    
 
-<class="button">
+<span class="button">
 [![ctc][i-wobble-ctc]][t-wobble-ctc]
 [![lcr][i-wobble-lcr]][t-wobble-lcr]
 [![rcl][i-wobble-rcl]][t-wobble-rcl]
-</class>
+</span>
 <p style="clear: both"></p>
 
 [p-wobble-0]: ../images/droste/wobble.svg?align=right "wobble, distorted" 
