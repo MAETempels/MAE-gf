@@ -63,11 +63,12 @@ The buttons below replace the unit with the unit shown on the button.
 
 ## Paris
 
-![fz][p-fancy-z]
 The [Paris] ground uses the thread diagram of the half stich as pair diagram. Some variations on the Paris ground are in the Whiting index (defined without this Droste technique) A5, A6, B5, A7-H7, G11. 
 
 In turn the _fancy Zeccatello_ uses the thread diagram of a Paris variation as pair diagram: [original][F12], [first-step-Droste][F12-droste] definitions. 
 Note that the cloth stitch units are in fact a unit of a bias ground.    
+
+![fz][p-fancy-z]
 The picture on the right shows a general scheme. The stitches of the Paris ground are replaced with units. In the picture, one unit is indicated with a blue ellipse. The buttons below replace this unit with the unit shown on the button, and the unit to the right with its mirrored version.          
               
 [![ctc][p-zec-ctc]][t-zec-ctc] 
